@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      Яйцапше жопа
+    <div className="App">g
+      We will continue
     </div>
   );
 }
